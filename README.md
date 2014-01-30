@@ -9,4 +9,5 @@ Changelog
 ================
 
 - 28-ENE-2014: Added PHP class bitShiftingMysql beta 0.1 
+- 30-ENE-2014: Added Python class bitShiftingMysql beta 0.0.1
 
